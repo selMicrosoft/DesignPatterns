@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace Decorator
+namespace Decorator.Functionality
 {
     public class OriginalOperation : IOperable
     {

@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Decorator
+using Decorator.Functionality;
+
+namespace Decorator.Decorators
 {
     public class ErrorHandlingDecorator : OperationDecorator
     {

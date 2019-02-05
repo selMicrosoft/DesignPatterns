@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 
-namespace Decorator
+using Decorator.Functionality;
+
+namespace Decorator.Decorators
 {
     public abstract class OperationDecorator : IOperable
     {
