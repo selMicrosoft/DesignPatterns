@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Decorator
+namespace Decorator.Functionality
 {
     public class SimpleOperation : IOperable
     {

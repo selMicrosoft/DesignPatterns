@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Decorator
+namespace Decorator.Functionality
 {
     public interface IOperable
     {
